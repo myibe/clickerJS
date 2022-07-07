@@ -16,7 +16,7 @@
     background-image: url(img/heart.jpg);
     background-size: 50px 50px;
     position: relative;
-    top: 140px;
+    top: 130px;
 
 
 }
@@ -25,9 +25,9 @@
     animation: jump 500ms ;
 }
 @keyframes jump {
-    0%{top: 150px;}
+    0%{top: 140px;}
     30%{top: 100px;}
-    70%{top: 100px;}
+    70%{top: 90px;}
     100%{top: 150px;}
 }
 
